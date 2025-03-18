@@ -118,10 +118,6 @@ public class EnemyController : MonoBehaviour
         {
             GameManager.AddScore(500);
         }
-        else if (gameObject.tag == "God")
-        {
-            GameManager.AddScore(1000);
-        }
 
         Destroy(gameObject); // Destroi o inimigo após a explosão
 

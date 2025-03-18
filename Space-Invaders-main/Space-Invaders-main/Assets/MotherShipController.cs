@@ -69,6 +69,12 @@ public class MotherShipController : MonoBehaviour
             GameObject explosion = Instantiate(explosionEffect, transform.position, Quaternion.identity);
             Destroy(explosion, explosionLifetime); // Destroi a explosão após um tempo
         }
+
+        if (gameObject.tag == "God")
+        {
+            GameManager.AddScore(1000);
+        }
+
         Destroy(gameObject); // Destroi a nave-mãe permanentemente
     }
 }
