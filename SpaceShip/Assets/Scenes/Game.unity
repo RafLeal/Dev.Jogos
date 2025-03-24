@@ -1064,7 +1064,6 @@ GameObject:
   - component: {fileID: 1199548810}
   - component: {fileID: 1199548812}
   - component: {fileID: 1199548811}
-  - component: {fileID: 1199548813}
   m_Layer: 0
   m_Name: Farback01_0
   m_TagString: Untagged
@@ -1159,28 +1158,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!95 &1199548813
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1199548809}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: a7e319f1a2e93394ab5f1eb28055dbd7, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1400128075
 GameObject:
   m_ObjectHideFlags: 0
@@ -1747,6 +1724,7 @@ MonoBehaviour:
   scoreText: {fileID: 84311056}
   customFont: {fileID: 12800000, guid: f0ec110a61a68a94284bda75f102505d, type: 3}
   gameOverUI: {fileID: 1432527912}
+  gameOverText: {fileID: 0}
   restartButton: {fileID: 734116906}
 --- !u!1001 &684377188865115381
 PrefabInstance:
