@@ -1,0 +1,1065 @@
+fileFormatVersion: 2
+guid: 196c26a94d5042e4a93d3e62dee8918e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3115567666029105364
+    second: tiles-onemassivesheet-alpha_0
+  - first:
+      213: 5834524424841448315
+    second: tiles-onemassivesheet-alpha_1
+  - first:
+      213: 5692560907352445996
+    second: tiles-onemassivesheet-alpha_2
+  - first:
+      213: 695063941480506838
+    second: tiles-onemassivesheet-alpha_3
+  - first:
+      213: 8361056423174140260
+    second: tiles-onemassivesheet-alpha_4
+  - first:
+      213: 8435185097399018958
+    second: tiles-onemassivesheet-alpha_5
+  - first:
+      213: -5814600410879869420
+    second: tiles-onemassivesheet-alpha_6
+  - first:
+      213: 5544579903938826814
+    second: tiles-onemassivesheet-alpha_7
+  - first:
+      213: -2088846029422379021
+    second: tiles-onemassivesheet-alpha_8
+  - first:
+      213: -2365828838333694296
+    second: tiles-onemassivesheet-alpha_9
+  - first:
+      213: 8910698947976407009
+    second: tiles-onemassivesheet-alpha_10
+  - first:
+      213: 6036237332991671723
+    second: tiles-onemassivesheet-alpha_11
+  - first:
+      213: 1989887607046008726
+    second: tiles-onemassivesheet-alpha_12
+  - first:
+      213: -2026827572495823506
+    second: tiles-onemassivesheet-alpha_13
+  - first:
+      213: -692476198295384376
+    second: tiles-onemassivesheet-alpha_14
+  - first:
+      213: 9032182135585854898
+    second: tiles-onemassivesheet-alpha_15
+  - first:
+      213: -1586816813359542965
+    second: tiles-onemassivesheet-alpha_16
+  - first:
+      213: 303155521763148366
+    second: tiles-onemassivesheet-alpha_17
+  - first:
+      213: 2558335363429592981
+    second: tiles-onemassivesheet-alpha_18
+  - first:
+      213: -466007321743372158
+    second: tiles-onemassivesheet-alpha_19
+  - first:
+      213: -7046472078368990170
+    second: tiles-onemassivesheet-alpha_20
+  - first:
+      213: 2576929013367044350
+    second: tiles-onemassivesheet-alpha_21
+  - first:
+      213: -2530721835671620420
+    second: tiles-onemassivesheet-alpha_22
+  - first:
+      213: -7697675877343334629
+    second: tiles-onemassivesheet-alpha_23
+  - first:
+      213: -3492698429007655974
+    second: tiles-onemassivesheet-alpha_24
+  - first:
+      213: -9164185036920732041
+    second: tiles-onemassivesheet-alpha_25
+  - first:
+      213: -1557815605747207427
+    second: tiles-onemassivesheet-alpha_26
+  - first:
+      213: 2261537474782994653
+    second: tiles-onemassivesheet-alpha_27
+  - first:
+      213: 4847051569025480206
+    second: tiles-onemassivesheet-alpha_28
+  - first:
+      213: -1725383785728340450
+    second: tiles-onemassivesheet-alpha_29
+  - first:
+      213: 7962500718101022501
+    second: tiles-onemassivesheet-alpha_30
+  - first:
+      213: -5561303286720259502
+    second: tiles-onemassivesheet-alpha_31
+  - first:
+      213: 7254695157755585886
+    second: tiles-onemassivesheet-alpha_32
+  - first:
+      213: -1335810486310771945
+    second: tiles-onemassivesheet-alpha_33
+  - first:
+      213: 6094630913950622909
+    second: tiles-onemassivesheet-alpha_34
+  - first:
+      213: -7175794934777129567
+    second: tiles-onemassivesheet-alpha_35
+  - first:
+      213: -6915850085294032421
+    second: tiles-onemassivesheet-alpha_36
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1327
+        width: 337
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d09b570948bc3b20800000000000000
+      internalID: 3115567666029105364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1327
+        width: 338
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bc3004d0568f050800000000000000
+      internalID: 5834524424841448315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_2
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1327
+        width: 114
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2494091cf9000f40800000000000000
+      internalID: 5692560907352445996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1512
+        width: 112
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5e020e8fc55a900800000000000000
+      internalID: 695063941480506838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1366
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461fa42a480780470800000000000000
+      internalID: 8361056423174140260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1366
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec52321972ccf0570800000000000000
+      internalID: 8435185097399018958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1281
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e3aaebbb36e4fa0800000000000000
+      internalID: -5814600410879869420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1286
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e321b03db0e42fc40800000000000000
+      internalID: 5544579903938826814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1281
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff3bc97a9de203e0800000000000000
+      internalID: -2088846029422379021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1286
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aebebbc433ea2fd0800000000000000
+      internalID: -2365828838333694296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_10
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1286
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7a4967b7929ab70800000000000000
+      internalID: 8910698947976407009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1280
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad7bec7fd505c350800000000000000
+      internalID: 6036237332991671723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 337
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fede85c308d9b10800000000000000
+      internalID: 1989887607046008726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1247
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d4b68bf034fd3e0800000000000000
+      internalID: -2026827572495823506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1247
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cec0390194d366f0800000000000000
+      internalID: -692476198295384376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1263
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5593a3cc1c85d70800000000000000
+      internalID: 9032182135585854898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1216
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d461cf38e7af9e0800000000000000
+      internalID: -1586816813359542965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1263
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4204624756053400800000000000000
+      internalID: 303155521763148366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_18
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1263
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f6a895578018320800000000000000
+      internalID: 2558335363429592981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1263
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28051c45fc86889f0800000000000000
+      internalID: -466007321743372158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_20
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1247
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c9b118af6e53e90800000000000000
+      internalID: -7046472078368990170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_21
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1263
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8f325d84713c320800000000000000
+      internalID: 2576929013367044350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_22
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1263
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4f77716e111ecd0800000000000000
+      internalID: -2530721835671620420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_23
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1247
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f6bd6d29c5c2590800000000000000
+      internalID: -7697675877343334629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_24
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1216
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb0f6fa841778fc0800000000000000
+      internalID: -3492698429007655974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_25
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1247
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776c36a434642d080800000000000000
+      internalID: -9164185036920732041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_26
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1247
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2b0e1d5f6816ae0800000000000000
+      internalID: -1557815605747207427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1247
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0aca6e958926f10800000000000000
+      internalID: 2261537474782994653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1247
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0673c3a8bf244340800000000000000
+      internalID: 4847051569025480206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_29
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1215
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e817e96943e08e0800000000000000
+      internalID: -1725383785728340450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_30
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1215
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527443a473c708e60800000000000000
+      internalID: 7962500718101022501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1203
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a93d2302842d2b0800000000000000
+      internalID: -5561303286720259502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1197
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55a4c71fcadda460800000000000000
+      internalID: 7254695157755585886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_33
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1110
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713643ca07f367de0800000000000000
+      internalID: -1335810486310771945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1025
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db42427868a749450800000000000000
+      internalID: 6094630913950622909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1030
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5df8b96847a6c90800000000000000
+      internalID: -7175794934777129567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-onemassivesheet-alpha_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 1024
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9b13a3df6f500a0800000000000000
+      internalID: -6915850085294032421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tiles-onemassivesheet-alpha_0: 3115567666029105364
+      tiles-onemassivesheet-alpha_1: 5834524424841448315
+      tiles-onemassivesheet-alpha_10: 8910698947976407009
+      tiles-onemassivesheet-alpha_11: 6036237332991671723
+      tiles-onemassivesheet-alpha_12: 1989887607046008726
+      tiles-onemassivesheet-alpha_13: -2026827572495823506
+      tiles-onemassivesheet-alpha_14: -692476198295384376
+      tiles-onemassivesheet-alpha_15: 9032182135585854898
+      tiles-onemassivesheet-alpha_16: -1586816813359542965
+      tiles-onemassivesheet-alpha_17: 303155521763148366
+      tiles-onemassivesheet-alpha_18: 2558335363429592981
+      tiles-onemassivesheet-alpha_19: -466007321743372158
+      tiles-onemassivesheet-alpha_2: 5692560907352445996
+      tiles-onemassivesheet-alpha_20: -7046472078368990170
+      tiles-onemassivesheet-alpha_21: 2576929013367044350
+      tiles-onemassivesheet-alpha_22: -2530721835671620420
+      tiles-onemassivesheet-alpha_23: -7697675877343334629
+      tiles-onemassivesheet-alpha_24: -3492698429007655974
+      tiles-onemassivesheet-alpha_25: -9164185036920732041
+      tiles-onemassivesheet-alpha_26: -1557815605747207427
+      tiles-onemassivesheet-alpha_27: 2261537474782994653
+      tiles-onemassivesheet-alpha_28: 4847051569025480206
+      tiles-onemassivesheet-alpha_29: -1725383785728340450
+      tiles-onemassivesheet-alpha_3: 695063941480506838
+      tiles-onemassivesheet-alpha_30: 7962500718101022501
+      tiles-onemassivesheet-alpha_31: -5561303286720259502
+      tiles-onemassivesheet-alpha_32: 7254695157755585886
+      tiles-onemassivesheet-alpha_33: -1335810486310771945
+      tiles-onemassivesheet-alpha_34: 6094630913950622909
+      tiles-onemassivesheet-alpha_35: -7175794934777129567
+      tiles-onemassivesheet-alpha_36: -6915850085294032421
+      tiles-onemassivesheet-alpha_4: 8361056423174140260
+      tiles-onemassivesheet-alpha_5: 8435185097399018958
+      tiles-onemassivesheet-alpha_6: -5814600410879869420
+      tiles-onemassivesheet-alpha_7: 5544579903938826814
+      tiles-onemassivesheet-alpha_8: -2088846029422379021
+      tiles-onemassivesheet-alpha_9: -2365828838333694296
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
